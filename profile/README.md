@@ -19,5 +19,9 @@
       <td>Введение в курс, современная веб-разработка</td>
       <td>https://github.com/Vue-OTUS/intro</td>
     </tr>
+    <tr>
+      <td>Vue, введение</td>
+      <td>https://github.com/Vue-OTUS/vue-ecosystem</td>
+    </tr>
   </tbody>
 </table>
