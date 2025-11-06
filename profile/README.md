@@ -21,7 +21,12 @@
     </tr>
     <tr>
       <td>Vue, введение</td>
-      <td>https://github.com/Vue-OTUS/vue-ecosystem</td>
+      <td>
+        <ol>
+          <li>Экосистема https://github.com/Vue-OTUS/vue-ecosystem</li>
+          <li>Код с урока (пример с vue-use) https://github.com/Vue-OTUS/vueuse-example</li>
+        </ol>
+      </td>
     </tr>
   </tbody>
 </table>
