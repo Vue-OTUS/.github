@@ -28,5 +28,9 @@
         </ol>
       </td>
     </tr>
+    <tr>
+      <td>Шаблоны</td>
+      <td>https://github.com/Vue-OTUS/vue-template</td>
+    </tr>
   </tbody>
 </table>
