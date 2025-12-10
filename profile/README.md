@@ -32,5 +32,9 @@
       <td>Шаблоны</td>
       <td>https://github.com/Vue-OTUS/vue-template</td>
     </tr>
+    <tr>
+      <td>Система реактивности VueJS 3</td>
+      <td>https://github.com/Vue-OTUS/reactivity-system</td>
+    </tr>
   </tbody>
 </table>
