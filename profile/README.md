@@ -33,6 +33,10 @@
       <td>https://github.com/Vue-OTUS/vue-template</td>
     </tr>
     <tr>
+      <td>Компоненты, props и события</td>
+      <td>https://github.com/Vue-OTUS/todo-mvc-example</td>
+    </tr>
+    <tr>
       <td>Система реактивности VueJS 3</td>
       <td>https://github.com/Vue-OTUS/reactivity-system</td>
     </tr>
