@@ -41,6 +41,10 @@
       <td>https://github.com/Vue-OTUS/forms-slots-directives</td>
     </tr>
     <tr>
+      <td>Vue Router</td>
+      <td>https://github.com/Vue-OTUS/vue-router-blog-example</td>
+    </tr>
+    <tr>
       <td>Система реактивности VueJS 3</td>
       <td>https://github.com/Vue-OTUS/reactivity-system</td>
     </tr>
