@@ -45,6 +45,10 @@
       <td>https://github.com/Vue-OTUS/vue-router-blog-example</td>
     </tr>
     <tr>
+      <td>Pinia</td>
+      <td> https://github.com/Vue-OTUS/vue-catalog-cart-pinia</td>
+    </tr>
+    <tr>
       <td>Система реактивности VueJS 3</td>
       <td>https://github.com/Vue-OTUS/reactivity-system</td>
     </tr>
